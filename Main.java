@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        Employee employee1 = new Employee(1, "John");
-        Employee employee2 = new Employee(2, "Alice");
-        Employee employee3 = new Employee(3, "Bob");
+        Employee employee1 = new Employee(1, "Иван");
+        Employee employee2 = new Employee(2, "Сергей");
+        Employee employee3 = new Employee(3, "Елена");
 
         Task task1 = new Task("Task 1", 1);
         Task task2 = new Task("Task 2", 2);
